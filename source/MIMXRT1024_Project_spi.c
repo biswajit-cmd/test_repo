@@ -49,11 +49,11 @@ int main(void) {
     	GPIO_PinWrite(GPIO1, 29, 1);
     	GPIO_PinWrite(GPIO1, 30, 1);
     	GPIO_PinWrite(GPIO1, 31, 1);
-//    	SDK_DelayAtLeastUs(5000000, CLOCK_GetFreq(kCLOCK_CpuClk));
-//
-//    	GPIO_PinWrite(GPIO1, 26, 0);
-//    	GPIO_PinWrite(GPIO1, 27, 1);
-//    	GPIO_PinWrite(GPIO1, 28, 0);
+    	SDK_DelayAtLeastUs(5000000, CLOCK_GetFreq(kCLOCK_CpuClk));
+
+    	GPIO_PinWrite(GPIO1, 26, 0);
+    	GPIO_PinWrite(GPIO1, 27, 1);
+    	GPIO_PinWrite(GPIO1, 28, 0);
 //
 //    	GPIO_PinWrite(GPIO1, 29, 1);
 //    	GPIO_PinWrite(GPIO1, 30, 0);
