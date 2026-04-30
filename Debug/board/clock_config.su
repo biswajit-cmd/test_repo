@@ -1,12 +1,12 @@
-D:\Workspace\spi github\spi\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
-D:\Workspace\spi github\spi\drivers/fsl_clock.h:1216:20:CLOCK_SetMux	24	static
-D:\Workspace\spi github\spi\drivers/fsl_clock.h:1268:20:CLOCK_SetDiv	24	static
-D:\Workspace\spi github\spi\drivers/fsl_clock.h:1304:20:CLOCK_ControlGate	32	static
-D:\Workspace\spi github\spi\drivers/fsl_clock.h:1331:20:CLOCK_DisableClock	16	static
-D:\Workspace\spi github\spi\drivers/fsl_clock.h:1471:20:CLOCK_SetXtalFreq	16	static
-D:\Workspace\spi github\spi\drivers/fsl_clock.h:1481:20:CLOCK_SetRtcXtalFreq	16	static
-D:\Workspace\spi github\spi\drivers/fsl_clock.h:1525:20:CLOCK_SetPllBypass	24	static
-D:\Workspace\spi github\spi\drivers/fsl_iomuxc.h:880:20:IOMUXC_SetSaiMClkClockSource	24	static
-D:\Workspace\spi github\spi\drivers/fsl_iomuxc.h:940:20:IOMUXC_MQSConfig	24	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_clock.h:1216:20:CLOCK_SetMux	24	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_clock.h:1268:20:CLOCK_SetDiv	24	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_clock.h:1304:20:CLOCK_ControlGate	32	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_clock.h:1331:20:CLOCK_DisableClock	16	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_clock.h:1471:20:CLOCK_SetXtalFreq	16	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_clock.h:1481:20:CLOCK_SetRtcXtalFreq	16	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_clock.h:1525:20:CLOCK_SetPllBypass	24	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_iomuxc.h:880:20:IOMUXC_SetSaiMClkClockSource	24	static
+D:\Workspace\MIMXRT1024_Project_spi\drivers/fsl_iomuxc.h:940:20:IOMUXC_MQSConfig	24	static
 ../board/clock_config.c:39:6:BOARD_InitBootClocks	8	static
 ../board/clock_config.c:153:6:BOARD_BootClockRUN	8	static

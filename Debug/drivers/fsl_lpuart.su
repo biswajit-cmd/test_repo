@@ -1,4 +1,4 @@
-D:\Workspace\spi github\spi\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
+D:\Workspace\MIMXRT1024_Project_spi\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
 ../drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
 ../drivers/fsl_clock.h:1304:20:CLOCK_ControlGate	32	static
 ../drivers/fsl_clock.h:1321:20:CLOCK_EnableClock	16	static
