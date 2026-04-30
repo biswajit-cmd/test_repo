@@ -1,0 +1,4 @@
+../board/peripherals.c:142:13:LPSPI2_init	8	static
+../board/peripherals.c:205:13:LPUART1_init	8	static
+../board/peripherals.c:212:6:BOARD_InitPeripherals	8	static
+../board/peripherals.c:222:6:BOARD_InitBootPeripherals	8	static
